@@ -1,0 +1,8 @@
+{
+  "name": "Umut Koç - 2027 TYT",
+  "short_name": "Umut Koç",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a"
+}
